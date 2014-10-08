@@ -1,0 +1,25 @@
+{
+  "name": "spammer",
+  "version": "0.0.0",
+  "description": "It spams the hell out of everyone!",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JGAntunes/spammer"
+  },
+  "keywords": [
+    "spam",
+    "twitter",
+    "mail",
+    "facebook"
+  ],
+  "author": "João Antunes <j.goncalo.antunes@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGAntunes/spammer/issues"
+  },
+  "homepage": "https://github.com/JGAntunes/spammer"
+}
